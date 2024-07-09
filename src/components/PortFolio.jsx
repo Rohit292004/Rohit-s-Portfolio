@@ -37,11 +37,6 @@ function PortFolio() {
 
     },
     {
-      id: 5,
-      logo: python,
-      name: "Python",
-    },
-    {
       id: 6,
       logo: java,
       name: "Java",
