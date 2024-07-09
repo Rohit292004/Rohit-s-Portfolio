@@ -1,0 +1,50 @@
+
+[****used in this project
+npm i
+npm i -force
+npm i react-icons
+getform.io => create 
+npm install react-hook-form
+npm i react-hot-toast
+
+]
+
+
+https://app.netlify.com/sites/rohitsportfoli0/overview
+
+
+
+******version control (git hub pe push karenge first time)
+
+git init   [git repo initialize karenge]
+git add.
+git commit -m "title changed"
+git remote add origin [yaha pe github me hua repo ka link denge]
+git branch(just for checking in which branch it is currently , master or not)
+git push -u origin master
+
+
+
+
+
+******for push operation after making any changes
+
+1)git add .
+2)git commit -m "title changed"
+3)git push
+
+
+
+****git clone repo
+
+1)copy the url of github repo
+2)open cmd
+3)cd Desktop(you can choose any other dir as well)
+4)md GitCloneRepo(Just name )
+5)git clone url(copied url)
+6)code . (it'll open this repo in vs code)
+
+
+****for running project=>
+1)npm i  [for dependencies]
+2)npm run start/dev
